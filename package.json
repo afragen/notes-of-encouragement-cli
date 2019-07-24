@@ -10,7 +10,7 @@
   "author": "David Neal <david@reverentgeek.com> (https://reverentgeek.com)",
   "license": "MIT",
   "bin": {
-    "heybuddy": "./bin/index.js"
+    "heysophie": "./bin/index.js"
   },
   "dependencies": {
     "boxen": "^4.1.0",
